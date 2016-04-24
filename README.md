@@ -1,0 +1,2 @@
+# Apriori-Algoritm
+int n ;
