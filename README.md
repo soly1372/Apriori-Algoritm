@@ -1,2 +1,0 @@
-# Apriori-Algoritm
-dvervefef
